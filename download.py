@@ -2,7 +2,7 @@
 from pytube import YouTube
 
 
-print("Fça um download de um vídeo no youtube")
+print("Faça um download de um vídeo no youtube")
 
 url = input("Digite o link: ")
 
